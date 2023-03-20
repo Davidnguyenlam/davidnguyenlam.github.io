@@ -1,5 +1,6 @@
 body { 
-    background-color: whitesmoke;
+    background-color: lightcyan;
+    font-family: Arial;
 
 }
 p {
@@ -13,19 +14,12 @@ ul {
 }
 li {
     text-align: left;
+    font-size: 1.2em;
 }
 img { 
     border-color: black;
     border-width: 3px;
     border-style: solid;
     text-align: right; 
-    width: 300px;
-    
-
+    width: 200px;
 }
-
-/* 
-border-color: black;
-border-width: 5px;
-border-style: solid;
-border-length: 1000px; */
